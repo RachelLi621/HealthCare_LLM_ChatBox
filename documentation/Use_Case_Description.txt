@@ -1,0 +1,40 @@
+Use Case Title:
+Real-Time Healthcare Facility Disruption Navigator – Halifax, NS
+
+Background:
+In Halifax, Nova Scotia, residents often face difficulties in accessing urgent care due to unanticipated facility disruptions such as emergency room closures, walk-in clinic overloads, or adverse weather and traffic conditions. These barriers can delay treatment during critical situations. Additionally, many residents lack a family doctor or are unfamiliar with nearby care options.
+
+User Persona:
+- Residents of Halifax, especially those without a family physician
+- Individuals experiencing urgent symptoms or needing same-day care
+- People who rely on public health alerts or live near known landmarks (e.g., Halifax Shopping Centre)
+
+Pain Points:
+- Lack of real-time visibility into urgent care availability or closures
+- Confusion about where to go when one facility is closed or full
+- Difficulty finding trusted, up-to-date information quickly
+- No easy way to assess access issues like traffic or weather-related barriers
+
+Success Criteria:
+- The chatbot accurately informs users of real-time facility closures or disruptions
+- It offers alternative care location suggestions based on user landmarks or areas
+- It provides clear, calm instructions when users describe symptoms of a medical emergency
+- It guides users to call 911 or 811 when necessary without giving medical diagnoses
+
+Example Scenarios:
+1. User: “I’m having chest pain and numbness in my arm.”  
+   Chatbot: Recommends calling 911 immediately.
+
+2. User: “Is the ER in downtown Halifax open tonight?”  
+   Chatbot: Responds with up-to-date closure status or advises checking NSH site.
+
+3. User: “I’m near Halifax Shopping Centre—where can I go?”  
+   Chatbot: Provides nearby open care options.
+
+4. User: “Any road closures affecting urgent care access today?”  
+   Chatbot: Answers with weather and traffic disruption info if available.
+
+Limitations:
+- The chatbot does not provide any form of diagnosis or treatment advice
+- Information is based on uploaded documents and may not always reflect the most recent changes
+- The tool is strictly for educational and research use only
